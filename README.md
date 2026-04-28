@@ -105,3 +105,13 @@ Star the repo if you find it useful!
 
 **Made for HR professionals, people operations teams, and developers.**  
 Let's make employee engagement smarter, more responsive, and fully controllable.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Employee-Engagement-Intelligence&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Employee-Engagement-Intelligence&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Employee-Engagement-Intelligence&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Employee-Engagement-Intelligence&type=date&legend=bottom-right" />
+ </picture>
+</a>
