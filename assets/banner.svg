@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9013fe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff007f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#50e3c2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="300" fill="url(#grad)">
+    <animate attributeName="fill" values="url(#grad);url(#grad2);url(#grad)" dur="10s" repeatCount="indefinite"/>
+  </rect>
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff">
+    Employee Engagement Intelligence
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.8">
+    Curated SaaS &amp; Open-Source Projects for AI Copilots
+  </text>
+  <circle cx="100" cy="150" r="20" fill="#ffffff" opacity="0.3">
+    <animate attributeName="cy" values="150; 50; 150" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="900" cy="150" r="30" fill="#ffffff" opacity="0.3">
+    <animate attributeName="cy" values="150; 250; 150" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="500" cy="250" r="15" fill="#ffffff" opacity="0.3">
+    <animate attributeName="cx" values="500; 600; 500" dur="6s" repeatCount="indefinite" />
+  </circle>
+</svg>
